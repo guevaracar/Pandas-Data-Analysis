@@ -1,0 +1,7 @@
+Observable Trends: 
+1. The vast majority of players are comprised of Males, with 81% and their 
+total Purchase Valueof $1867.68.
+
+2. Two age groups (15-19, 20-24) take up just under 65% of the total amount of players.
+
+3. Half of the total male purchase value(~$900 of ~$1867), is comprised of one age group(20-24). 
